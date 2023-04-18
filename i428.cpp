@@ -1,4 +1,4 @@
-// i428. 1. 巴士站牌
+// i428. 1. 巴士站牌 2022年10月APCS
 // https://zerojudge.tw/ShowProblem?problemid=i428
 
 #include <iostream>
