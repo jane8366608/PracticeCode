@@ -1,7 +1,7 @@
 """
-* ZeroJudge e969. 3. 大吃大喝 (Big eater)
-* https://zerojudge.tw/ShowProblem?problemid=e969
-* Authored by Yang Yu-Chieh at 2023-05-17 00:10.
+* ZeroJudge c079. 10346 - Peter's Smokes
+* https://zerojudge.tw/ShowProblem?problemid=c079
+* Authored by Yang Yu-Chieh at 2023-05-17 8:00.
 *  
 """
 from sys import stdin
